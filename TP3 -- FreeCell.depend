@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1387823010 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell\funcoes.c
+	"funcoes.h"
+
+1387638128 d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell\baralho.h
+
+1387823762 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell\main.c
+	"funcoes.h"
+
+1387640385 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell\baralho.c
+	"funcoes.h"
+
+1387825135 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell\tabuleiro.c
+	"funcoes.h"
+
+1387823010 d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"baralho.h"
+
+1388097996 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell -- allegro5\baralho.c
+	"funcoes.h"
+
+1388857119 d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell -- allegro5\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"baralho.h"
+
+1388857437 d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell -- allegro5\baralho.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1388106387 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell -- allegro5\funcoes.c
+	"funcoes.h"
+
+1388864311 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell -- allegro5\tabuleiro.c
+	"funcoes.h"
+
+1388864246 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell -- allegro5\allegro.c
+	"funcoes.h"
+
+1388864362 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell -- allegro5\main.c
+	"funcoes.h"
+
+1388098302 source:d:\meus documentos\tsi\2º período\estrutura de dados i\trabalho\tp 3\tp3 -- freecell -- allegro5\jogada.c
+	"funcoes.h"
+
