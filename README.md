@@ -13,5 +13,5 @@ Programa feito como trabalho para a disciplina de Estrutura de Dados I do 2º pe
 <hr>
 <h4>Screenshots</h4>
 <hr>
-![CMD](https://raw.github.com/GianCarlosB/FreeCell/master/screenshots/img02.png)
-![Janela Auxiliar](https://raw.github.com/GianCarlosB/FreeCell/master/screenshots/img01.png)
+<img src="https://raw.github.com/GianCarlosB/FreeCell/master/screenshots/img02.png" alt="cmd"/>
+<img src="https://raw.github.com/GianCarlosB/FreeCell/master/screenshots/img01.png" alt="interface gráfica"/>
